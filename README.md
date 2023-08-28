@@ -1,4 +1,4 @@
-# Neural Field Representations of Articulated Objects <br/> for Robotic Manipulation Planning
+# Neural Field Representations of Articulated Objects for Robotic Manipulation Planning
 
 ## Abstract
 Traditional approaches for manipulation planning
