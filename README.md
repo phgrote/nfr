@@ -1,4 +1,6 @@
-# Abstract
+# Neural Field Representations of Articulated Objects <br/> for Robotic Manipulation Planning
+
+## Abstract
 Traditional approaches for manipulation planning
 rely on an explicit geometric model of the environment to
 formulate a given task as an optimization problem. However,
