@@ -21,3 +21,5 @@ objects of the same class, both in simulation and with real
 images. Furthermore, we demonstrate that the representation
 enables robotic manipulation of articulated object in the real
 world directly from images.
+
+## Video <a name="Video"></a>
