@@ -6,8 +6,8 @@ rely on an explicit geometric model of the environment to
 formulate a given task as an optimization problem. However,
 inferring an accurate model from raw sensor input is a hard
 problem in itself, in particular for articulated objects (e.g., closets,
-drawers). In this paper, we propose a Neural Field Represen-
-tation (NFR) of articulated objects that enables manipulation
+drawers). In this paper, we propose a Neural Field Representation (NFR) 
+of articulated objects that enables manipulation
 planning directly from images. Specifically, after taking a few
 pictures of a new articulated object, we can forward simulate
 its possible movements, and, therefore, use this neural model
